@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="List" />
+
+    <style name="List.Title">
+        <item name="android:textSize">@dimen/text_size_list_item_title</item>
+        <item name="android:textColor">?attr/colorTextPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="List.SubTitle">
+        <item name="android:textSize">@dimen/text_size_list_item_sub_title</item>
+        <item name="android:textColor">?attr/colorTextSecondary</item>
+    </style>
+
+</resources>

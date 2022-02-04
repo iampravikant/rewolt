@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="xs_margin">4dp</dimen>
+    <dimen name="s_margin">8dp</dimen>
+    <dimen name="m_margin">16dp</dimen>
+
+    <!-- List Item -->
+    <dimen name="restaurant_image_height">192dp</dimen>
+    <dimen name="restaurant_image_corner_radius">12dp</dimen>
+    <dimen name="text_size_list_item_title">16sp</dimen>
+    <dimen name="text_size_list_item_sub_title">14sp</dimen>
+</resources>

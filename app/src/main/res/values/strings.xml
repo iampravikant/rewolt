@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReWolt</string>
+
+    <!-- Restaurant Item -->
+    <string name="restaurant_image_content_description">Restaurant Image</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_network">Couldn\'t connect to internet</string>
+</resources>
